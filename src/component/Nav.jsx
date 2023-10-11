@@ -12,7 +12,7 @@ export default function Nav() {
     <>
       <nav className="bg-black p-4">
         <div className="container mx-auto flex justify-between items-center">
-          <div className=" animate-bounce   text-fuchsia-400 text-4xl  font-script font-bold ">
+          <div className="    text-fuchsia-400 text-4xl  font-script font-bold ">
             Nadiea.
           </div>
 
